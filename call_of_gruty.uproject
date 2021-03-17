@@ -2,57 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "call_of_gruty",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "Landmass",
-			"Enabled": true
-		},
-		{
-			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
-		},
-		{
-			"Name": "WindowsDialogBox",
-			"Enabled": false
-		},
-		{
-			"Name": "DLSS",
-			"Enabled": true
-		},
-		{
-			"Name": "VoxelFree",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
-		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"AllDesktop",
-		"IOS",
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor",
-		"MacNoEditor",
-		"WindowsNoEditor",
-		"WindowsNoEditorWin32"
-	]
+	"Description": ""
 }
